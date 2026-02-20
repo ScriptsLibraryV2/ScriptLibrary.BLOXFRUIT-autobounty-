@@ -102,7 +102,7 @@ Every weapon category has:
 Copy and paste this into your executor:
 
 ```lua
-loadstring(game:HttpGet("YOUR_GITHUB_RAW_LINK_HERE"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsLibraryV2/ScriptLibrary.BLOXFRUIT-autobounty-/refs/heads/main/main.lua"))()
 ```
 
 ### Requirements
